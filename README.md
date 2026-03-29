@@ -1,2 +1,3 @@
-# rsschool-cv
-The repository for JS fundametals course from RS-School
+https://almasbekSC.github.io/rsschool-cv/cv
+
+https://almasbekSC.github.io/rsschool-cv/
