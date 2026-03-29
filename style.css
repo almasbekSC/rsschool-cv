@@ -44,7 +44,22 @@ html {
 .main-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
+}
+
+.name-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
 .section {
